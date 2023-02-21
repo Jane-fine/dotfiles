@@ -1,0 +1,3 @@
+[submodule "lisp/package/pyim-bigdict"]
+	path = lisp/package/pyim-bigdict
+	url = https://github.com/tumashu/pyim-bigdict.git
